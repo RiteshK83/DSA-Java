@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RiteshK83/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/RiteshK83/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0142-linked-list-cycle-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/RiteshK83/DSA-Java/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/RiteshK83/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/RiteshK83/DSA-Java/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
