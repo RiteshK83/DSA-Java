@@ -24,6 +24,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/RiteshK83/DSA-Java/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -35,4 +36,16 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
