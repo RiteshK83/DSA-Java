@@ -28,6 +28,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/RiteshK83/DSA-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/RiteshK83/DSA-Java/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -56,6 +57,7 @@
 | [0113-path-sum-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/RiteshK83/DSA-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/RiteshK83/DSA-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -100,6 +102,7 @@
 | [0113-path-sum-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/RiteshK83/DSA-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/RiteshK83/DSA-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -148,6 +151,15 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/RiteshK83/DSA-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0701-insert-into-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/RiteshK83/DSA-Java/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/RiteshK83/DSA-Java/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
