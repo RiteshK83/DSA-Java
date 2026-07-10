@@ -29,6 +29,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/RiteshK83/DSA-Java/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/RiteshK83/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RiteshK83/DSA-Java/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -158,8 +159,13 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RiteshK83/DSA-Java/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/RiteshK83/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 ## Iterator
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RiteshK83/DSA-Java/tree/master/0173-binary-search-tree-iterator) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RiteshK83/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
