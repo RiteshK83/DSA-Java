@@ -26,6 +26,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/RiteshK83/DSA-Java/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/RiteshK83/DSA-Java/tree/master/0155-min-stack) |
@@ -140,6 +141,7 @@
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/RiteshK83/DSA-Java/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0257-binary-tree-paths) |
 ## Array
 |  |
