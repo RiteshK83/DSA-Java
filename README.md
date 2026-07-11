@@ -28,6 +28,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/RiteshK83/DSA-Java/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/RiteshK83/DSA-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/RiteshK83/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RiteshK83/DSA-Java/tree/master/0234-palindrome-linked-list) |
@@ -162,6 +163,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RiteshK83/DSA-Java/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/RiteshK83/DSA-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/RiteshK83/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 ## Iterator
