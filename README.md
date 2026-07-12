@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/0002-add-two-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/RiteshK83/DSA-Java/tree/master/0682-baseball-game) |
+| [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/RiteshK83/DSA-Java/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
 |  |
@@ -160,6 +162,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -196,6 +199,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RiteshK83/DSA-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/RiteshK83/DSA-Java/tree/master/1046-last-stone-weight) |
 ## Data Stream
 |  |
@@ -205,8 +209,14 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
