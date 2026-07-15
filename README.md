@@ -96,6 +96,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RiteshK83/DSA-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RiteshK83/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RiteshK83/DSA-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RiteshK83/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,4 +258,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RiteshK83/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/RiteshK83/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/RiteshK83/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
