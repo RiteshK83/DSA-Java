@@ -9,6 +9,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/RiteshK83/DSA-Java/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
+| [1207-unique-number-of-occurrences](https://github.com/RiteshK83/DSA-Java/tree/master/1207-unique-number-of-occurrences) |
 ## Linked List
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/RiteshK83/DSA-Java/tree/master/1046-last-stone-weight) |
+| [1207-unique-number-of-occurrences](https://github.com/RiteshK83/DSA-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RiteshK83/DSA-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/RiteshK83/DSA-Java/tree/master/1470-shuffle-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RiteshK83/DSA-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
