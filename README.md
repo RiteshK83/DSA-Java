@@ -143,6 +143,7 @@
 | [0547-number-of-provinces](https://github.com/RiteshK83/DSA-Java/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/RiteshK83/DSA-Java/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/RiteshK83/DSA-Java/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiteshK83/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
@@ -174,6 +175,7 @@
 | [0682-baseball-game](https://github.com/RiteshK83/DSA-Java/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/RiteshK83/DSA-Java/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/RiteshK83/DSA-Java/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/RiteshK83/DSA-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RiteshK83/DSA-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -283,4 +285,8 @@
 | [0547-number-of-provinces](https://github.com/RiteshK83/DSA-Java/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/RiteshK83/DSA-Java/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiteshK83/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/RiteshK83/DSA-Java/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
