@@ -106,6 +106,7 @@
 | [0733-flood-fill](https://github.com/RiteshK83/DSA-Java/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/RiteshK83/DSA-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/RiteshK83/DSA-Java/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/RiteshK83/DSA-Java/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/RiteshK83/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiteshK83/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
@@ -157,6 +158,7 @@
 | [0733-flood-fill](https://github.com/RiteshK83/DSA-Java/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/RiteshK83/DSA-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/RiteshK83/DSA-Java/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/RiteshK83/DSA-Java/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/RiteshK83/DSA-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RiteshK83/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -304,6 +306,7 @@
 | [0200-number-of-islands](https://github.com/RiteshK83/DSA-Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RiteshK83/DSA-Java/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/RiteshK83/DSA-Java/tree/master/0695-max-area-of-island) |
+| [0886-possible-bipartition](https://github.com/RiteshK83/DSA-Java/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/RiteshK83/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiteshK83/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -313,6 +316,7 @@
 | [0547-number-of-provinces](https://github.com/RiteshK83/DSA-Java/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/RiteshK83/DSA-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/RiteshK83/DSA-Java/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/RiteshK83/DSA-Java/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiteshK83/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
