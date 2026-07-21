@@ -6,6 +6,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/RiteshK83/DSA-Java/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/RiteshK83/DSA-Java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RiteshK83/DSA-Java/tree/master/0242-valid-anagram) |
@@ -146,6 +147,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/RiteshK83/DSA-Java/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/RiteshK83/DSA-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/RiteshK83/DSA-Java/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0210-course-schedule-ii) |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/RiteshK83/DSA-Java/tree/master/0071-simplify-path) |
+| [0127-word-ladder](https://github.com/RiteshK83/DSA-Java/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/RiteshK83/DSA-Java/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0257-binary-tree-paths) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
