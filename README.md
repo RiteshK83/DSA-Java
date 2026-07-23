@@ -107,6 +107,7 @@
 | [0733-flood-fill](https://github.com/RiteshK83/DSA-Java/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RiteshK83/DSA-Java/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RiteshK83/DSA-Java/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RiteshK83/DSA-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/RiteshK83/DSA-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/RiteshK83/DSA-Java/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/RiteshK83/DSA-Java/tree/master/0886-possible-bipartition) |
@@ -162,6 +163,7 @@
 | [0733-flood-fill](https://github.com/RiteshK83/DSA-Java/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RiteshK83/DSA-Java/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RiteshK83/DSA-Java/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RiteshK83/DSA-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/RiteshK83/DSA-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/RiteshK83/DSA-Java/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/RiteshK83/DSA-Java/tree/master/0886-possible-bipartition) |
@@ -176,6 +178,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RiteshK83/DSA-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RiteshK83/DSA-Java/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
@@ -273,6 +276,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/RiteshK83/DSA-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/RiteshK83/DSA-Java/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RiteshK83/DSA-Java/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RiteshK83/DSA-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/RiteshK83/DSA-Java/tree/master/1046-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/RiteshK83/DSA-Java/tree/master/1514-path-with-maximum-probability) |
@@ -332,6 +336,7 @@
 | [0210-course-schedule-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/RiteshK83/DSA-Java/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/RiteshK83/DSA-Java/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RiteshK83/DSA-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/RiteshK83/DSA-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/RiteshK83/DSA-Java/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/RiteshK83/DSA-Java/tree/master/0886-possible-bipartition) |
@@ -361,6 +366,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/RiteshK83/DSA-Java/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RiteshK83/DSA-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/RiteshK83/DSA-Java/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RiteshK83/DSA-Java/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
