@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/RiteshK83/DSA-Java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RiteshK83/DSA-Java/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
 | [1207-unique-number-of-occurrences](https://github.com/RiteshK83/DSA-Java/tree/master/1207-unique-number-of-occurrences) |
 ## Linked List
 |  |
@@ -105,6 +106,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/RiteshK83/DSA-Java/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/RiteshK83/DSA-Java/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RiteshK83/DSA-Java/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RiteshK83/DSA-Java/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RiteshK83/DSA-Java/tree/master/0778-swim-in-rising-water) |
@@ -163,6 +165,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/RiteshK83/DSA-Java/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/RiteshK83/DSA-Java/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RiteshK83/DSA-Java/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/RiteshK83/DSA-Java/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RiteshK83/DSA-Java/tree/master/0778-swim-in-rising-water) |
@@ -197,6 +200,7 @@
 | [0242-valid-anagram](https://github.com/RiteshK83/DSA-Java/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0257-binary-tree-paths) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RiteshK83/DSA-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RiteshK83/DSA-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
@@ -213,6 +217,7 @@
 | [0682-baseball-game](https://github.com/RiteshK83/DSA-Java/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/RiteshK83/DSA-Java/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RiteshK83/DSA-Java/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/RiteshK83/DSA-Java/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
@@ -298,6 +303,7 @@
 | [0242-valid-anagram](https://github.com/RiteshK83/DSA-Java/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/RiteshK83/DSA-Java/tree/master/0295-find-median-from-data-stream) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -332,6 +338,7 @@
 | [0547-number-of-provinces](https://github.com/RiteshK83/DSA-Java/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/RiteshK83/DSA-Java/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/RiteshK83/DSA-Java/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/RiteshK83/DSA-Java/tree/master/0778-swim-in-rising-water) |
 | [0886-possible-bipartition](https://github.com/RiteshK83/DSA-Java/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/RiteshK83/DSA-Java/tree/master/1020-number-of-enclaves) |
