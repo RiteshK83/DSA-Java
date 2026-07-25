@@ -114,6 +114,7 @@
 | [0886-possible-bipartition](https://github.com/RiteshK83/DSA-Java/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/RiteshK83/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RiteshK83/DSA-Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiteshK83/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -173,6 +174,7 @@
 | [1020-number-of-enclaves](https://github.com/RiteshK83/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RiteshK83/DSA-Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1765-map-of-highest-peak](https://github.com/RiteshK83/DSA-Java/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiteshK83/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
@@ -333,6 +335,7 @@
 | [0778-swim-in-rising-water](https://github.com/RiteshK83/DSA-Java/tree/master/0778-swim-in-rising-water) |
 | [0886-possible-bipartition](https://github.com/RiteshK83/DSA-Java/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/RiteshK83/DSA-Java/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RiteshK83/DSA-Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/RiteshK83/DSA-Java/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiteshK83/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -346,6 +349,7 @@
 | [0802-find-eventual-safe-states](https://github.com/RiteshK83/DSA-Java/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/RiteshK83/DSA-Java/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/RiteshK83/DSA-Java/tree/master/0886-possible-bipartition) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RiteshK83/DSA-Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/RiteshK83/DSA-Java/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/RiteshK83/DSA-Java/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiteshK83/DSA-Java/tree/master/1971-find-if-path-exists-in-graph) |
