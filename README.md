@@ -9,6 +9,7 @@
 | [0127-word-ladder](https://github.com/RiteshK83/DSA-Java/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/RiteshK83/DSA-Java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/RiteshK83/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RiteshK83/DSA-Java/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
@@ -211,6 +212,7 @@
 | [0169-majority-element](https://github.com/RiteshK83/DSA-Java/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/RiteshK83/DSA-Java/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/RiteshK83/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0463-island-perimeter](https://github.com/RiteshK83/DSA-Java/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0542-01-matrix) |
@@ -300,6 +302,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/RiteshK83/DSA-Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/RiteshK83/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RiteshK83/DSA-Java/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/RiteshK83/DSA-Java/tree/master/0295-find-median-from-data-stream) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
