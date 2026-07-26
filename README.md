@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/RiteshK83/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RiteshK83/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RiteshK83/DSA-Java/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/RiteshK83/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
 | [1207-unique-number-of-occurrences](https://github.com/RiteshK83/DSA-Java/tree/master/1207-unique-number-of-occurrences) |
@@ -201,6 +202,7 @@
 | [0127-word-ladder](https://github.com/RiteshK83/DSA-Java/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/RiteshK83/DSA-Java/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/RiteshK83/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RiteshK83/DSA-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RiteshK83/DSA-Java/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/RiteshK83/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -331,6 +334,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RiteshK83/DSA-Java/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/RiteshK83/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
 | [1748-sum-of-unique-elements](https://github.com/RiteshK83/DSA-Java/tree/master/1748-sum-of-unique-elements) |
 ## Merge Sort
