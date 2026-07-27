@@ -44,6 +44,7 @@
 | [0295-find-median-from-data-stream](https://github.com/RiteshK83/DSA-Java/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/RiteshK83/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2460-apply-operations-to-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/2460-apply-operations-to-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | [1765-map-of-highest-peak](https://github.com/RiteshK83/DSA-Java/tree/master/1765-map-of-highest-peak) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RiteshK83/DSA-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RiteshK83/DSA-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2460-apply-operations-to-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/2460-apply-operations-to-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -303,6 +305,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/RiteshK83/DSA-Java/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RiteshK83/DSA-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/2460-apply-operations-to-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
