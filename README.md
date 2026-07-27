@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RiteshK83/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/RiteshK83/DSA-Java/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0142-linked-list-cycle-ii) |
@@ -220,6 +221,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/RiteshK83/DSA-Java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
