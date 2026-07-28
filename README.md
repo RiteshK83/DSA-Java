@@ -66,12 +66,14 @@
 | [0024-swap-nodes-in-pairs](https://github.com/RiteshK83/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/RiteshK83/DSA-Java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RiteshK83/DSA-Java/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/RiteshK83/DSA-Java/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/RiteshK83/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/RiteshK83/DSA-Java/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/RiteshK83/DSA-Java/tree/master/0342-power-of-four) |
 | [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RiteshK83/DSA-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Tree
@@ -445,6 +447,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/RiteshK83/DSA-Java/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/RiteshK83/DSA-Java/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RiteshK83/DSA-Java/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/RiteshK83/DSA-Java/tree/master/0645-set-mismatch) |
 ## Sliding Window
