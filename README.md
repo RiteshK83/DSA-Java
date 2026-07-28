@@ -35,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RiteshK83/DSA-Java/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RiteshK83/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/RiteshK83/DSA-Java/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -225,6 +226,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RiteshK83/DSA-Java/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/RiteshK83/DSA-Java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -332,6 +334,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RiteshK83/DSA-Java/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RiteshK83/DSA-Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
