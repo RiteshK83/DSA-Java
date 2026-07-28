@@ -252,6 +252,7 @@
 | [0682-baseball-game](https://github.com/RiteshK83/DSA-Java/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/RiteshK83/DSA-Java/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/RiteshK83/DSA-Java/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RiteshK83/DSA-Java/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/RiteshK83/DSA-Java/tree/master/0746-min-cost-climbing-stairs) |
@@ -290,6 +291,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RiteshK83/DSA-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0704-binary-search](https://github.com/RiteshK83/DSA-Java/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/RiteshK83/DSA-Java/tree/master/0778-swim-in-rising-water) |
 ## Design
 |  |
