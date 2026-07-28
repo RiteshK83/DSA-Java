@@ -233,6 +233,7 @@
 | ------- |
 | [0015-3sum](https://github.com/RiteshK83/DSA-Java/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/RiteshK83/DSA-Java/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/RiteshK83/DSA-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -284,6 +285,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/RiteshK83/DSA-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
