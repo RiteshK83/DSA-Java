@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RiteshK83/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/RiteshK83/DSA-Java/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RiteshK83/DSA-Java/tree/master/0342-power-of-four) |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RiteshK83/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/RiteshK83/DSA-Java/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -476,4 +478,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/RiteshK83/DSA-Java/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/RiteshK83/DSA-Java/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
