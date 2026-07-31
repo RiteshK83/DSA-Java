@@ -208,6 +208,7 @@
 | [0070-climbing-stairs](https://github.com/RiteshK83/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/RiteshK83/DSA-Java/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RiteshK83/DSA-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0542-01-matrix) |
@@ -244,6 +245,7 @@
 | [0088-merge-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0152-maximum-product-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/RiteshK83/DSA-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/RiteshK83/DSA-Java/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RiteshK83/DSA-Java/tree/master/0200-number-of-islands) |
