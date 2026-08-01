@@ -216,6 +216,7 @@
 | [0152-maximum-product-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/RiteshK83/DSA-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/RiteshK83/DSA-Java/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/RiteshK83/DSA-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RiteshK83/DSA-Java/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -261,6 +262,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RiteshK83/DSA-Java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/RiteshK83/DSA-Java/tree/master/0221-maximal-square) |
 | [0349-intersection-of-two-arrays](https://github.com/RiteshK83/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -441,6 +443,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/RiteshK83/DSA-Java/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/RiteshK83/DSA-Java/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/RiteshK83/DSA-Java/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/RiteshK83/DSA-Java/tree/master/0695-max-area-of-island) |
