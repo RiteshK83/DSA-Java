@@ -221,6 +221,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/RiteshK83/DSA-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RiteshK83/DSA-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/RiteshK83/DSA-Java/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/RiteshK83/DSA-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RiteshK83/DSA-Java/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
@@ -284,6 +285,7 @@
 | [1046-last-stone-weight](https://github.com/RiteshK83/DSA-Java/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/RiteshK83/DSA-Java/tree/master/1207-unique-number-of-occurrences) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/RiteshK83/DSA-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RiteshK83/DSA-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/RiteshK83/DSA-Java/tree/master/1470-shuffle-the-array) |
 | [1514-path-with-maximum-probability](https://github.com/RiteshK83/DSA-Java/tree/master/1514-path-with-maximum-probability) |
@@ -452,6 +454,7 @@
 | [0994-rotting-oranges](https://github.com/RiteshK83/DSA-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RiteshK83/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/RiteshK83/DSA-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1765-map-of-highest-peak](https://github.com/RiteshK83/DSA-Java/tree/master/1765-map-of-highest-peak) |
 ## Topological Sort
 |  |
