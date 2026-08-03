@@ -221,6 +221,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/RiteshK83/DSA-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RiteshK83/DSA-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/RiteshK83/DSA-Java/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RiteshK83/DSA-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RiteshK83/DSA-Java/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
@@ -240,6 +241,7 @@
 | [0389-find-the-difference](https://github.com/RiteshK83/DSA-Java/tree/master/0389-find-the-difference) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
+| [1143-longest-common-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/1143-longest-common-subsequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RiteshK83/DSA-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RiteshK83/DSA-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
@@ -493,4 +495,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
