@@ -218,6 +218,7 @@
 | [0198-house-robber](https://github.com/RiteshK83/DSA-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/RiteshK83/DSA-Java/tree/master/0221-maximal-square) |
+| [0516-longest-palindromic-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/RiteshK83/DSA-Java/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RiteshK83/DSA-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -243,6 +244,7 @@
 | [0257-binary-tree-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/RiteshK83/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RiteshK83/DSA-Java/tree/master/0389-find-the-difference) |
+| [0516-longest-palindromic-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/RiteshK83/DSA-Java/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RiteshK83/DSA-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
