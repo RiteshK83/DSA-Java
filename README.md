@@ -212,6 +212,7 @@
 | [0070-climbing-stairs](https://github.com/RiteshK83/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/RiteshK83/DSA-Java/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/RiteshK83/DSA-Java/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/RiteshK83/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/RiteshK83/DSA-Java/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0152-maximum-product-subarray) |
@@ -240,6 +241,7 @@
 | [0071-simplify-path](https://github.com/RiteshK83/DSA-Java/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/RiteshK83/DSA-Java/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/RiteshK83/DSA-Java/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/RiteshK83/DSA-Java/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/RiteshK83/DSA-Java/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/RiteshK83/DSA-Java/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0257-binary-tree-paths) |
