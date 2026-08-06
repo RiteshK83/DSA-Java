@@ -64,6 +64,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/RiteshK83/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/RiteshK83/DSA-Java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RiteshK83/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/RiteshK83/DSA-Java/tree/master/0342-power-of-four) |
@@ -206,6 +207,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0064-minimum-path-sum) |
@@ -239,6 +241,7 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/RiteshK83/DSA-Java/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/RiteshK83/DSA-Java/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/RiteshK83/DSA-Java/tree/master/0091-decode-ways) |
@@ -516,4 +519,8 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RiteshK83/DSA-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/RiteshK83/DSA-Java/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/1143-longest-common-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
