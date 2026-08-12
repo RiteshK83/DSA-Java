@@ -28,6 +28,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RiteshK83/DSA-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/RiteshK83/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/RiteshK83/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/RiteshK83/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/RiteshK83/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/RiteshK83/DSA-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/RiteshK83/DSA-Java/tree/master/0231-power-of-two) |
