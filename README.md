@@ -234,6 +234,7 @@
 | [0221-maximal-square](https://github.com/RiteshK83/DSA-Java/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RiteshK83/DSA-Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/RiteshK83/DSA-Java/tree/master/0312-burst-balloons) |
 | [0516-longest-palindromic-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/RiteshK83/DSA-Java/tree/master/0583-delete-operation-for-two-strings) |
@@ -307,6 +308,7 @@
 | [0221-maximal-square](https://github.com/RiteshK83/DSA-Java/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RiteshK83/DSA-Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/RiteshK83/DSA-Java/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/RiteshK83/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
