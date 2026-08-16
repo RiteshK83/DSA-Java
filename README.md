@@ -237,6 +237,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RiteshK83/DSA-Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/RiteshK83/DSA-Java/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/RiteshK83/DSA-Java/tree/master/0583-delete-operation-for-two-strings) |
@@ -257,6 +258,7 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0494-target-sum) |
 ## String
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/RiteshK83/DSA-Java/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/RiteshK83/DSA-Java/tree/master/0645-set-mismatch) |
@@ -578,8 +581,10 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
