@@ -188,6 +188,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/RiteshK83/DSA-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/RiteshK83/DSA-Java/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/RiteshK83/DSA-Java/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/RiteshK83/DSA-Java/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/RiteshK83/DSA-Java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0542-01-matrix) |
@@ -236,6 +237,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RiteshK83/DSA-Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/RiteshK83/DSA-Java/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/RiteshK83/DSA-Java/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0516-longest-palindromic-subsequence) |
@@ -315,6 +317,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RiteshK83/DSA-Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/RiteshK83/DSA-Java/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/RiteshK83/DSA-Java/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/RiteshK83/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
@@ -582,6 +585,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/RiteshK83/DSA-Java/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0518-coin-change-ii) |
@@ -593,5 +597,6 @@
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/RiteshK83/DSA-Java/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
