@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiteshK83/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -297,6 +298,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/RiteshK83/DSA-Java/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/RiteshK83/DSA-Java/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
