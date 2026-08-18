@@ -13,9 +13,10 @@ class Solution {
       }
       int[] result = new int[answer.size()];
 
-      int index = 0;
+      int i = 0;
       for(int num : answer){
-        result[index++] = num;
+        result[i] = num;
+        i++;
       }
       return result;
     }
