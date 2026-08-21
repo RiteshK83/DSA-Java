@@ -344,6 +344,7 @@
 | [0503-next-greater-element-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0542-01-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/RiteshK83/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/RiteshK83/DSA-Java/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/RiteshK83/DSA-Java/tree/master/0682-baseball-game) |
@@ -570,6 +571,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiteshK83/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/RiteshK83/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 ## Memoization
 |  |
 | ------- |
