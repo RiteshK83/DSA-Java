@@ -271,6 +271,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RiteshK83/DSA-Java/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0494-target-sum) |
@@ -314,6 +315,7 @@
 | [0053-maximum-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/RiteshK83/DSA-Java/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/RiteshK83/DSA-Java/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -564,6 +566,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RiteshK83/DSA-Java/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/RiteshK83/DSA-Java/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RiteshK83/DSA-Java/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RiteshK83/DSA-Java/tree/master/0389-find-the-difference) |
