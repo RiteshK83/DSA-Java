@@ -91,6 +91,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/RiteshK83/DSA-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RiteshK83/DSA-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1872-stone-game-viii](https://github.com/RiteshK83/DSA-Java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RiteshK83/DSA-Java/tree/master/1927-sum-game) |
 ## Tree
 |  |
@@ -268,6 +269,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RiteshK83/DSA-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RiteshK83/DSA-Java/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1872-stone-game-viii](https://github.com/RiteshK83/DSA-Java/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RiteshK83/DSA-Java/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
@@ -377,6 +379,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/RiteshK83/DSA-Java/tree/master/1584-min-cost-to-connect-all-points) |
 | [1748-sum-of-unique-elements](https://github.com/RiteshK83/DSA-Java/tree/master/1748-sum-of-unique-elements) |
 | [1765-map-of-highest-peak](https://github.com/RiteshK83/DSA-Java/tree/master/1765-map-of-highest-peak) |
+| [1872-stone-game-viii](https://github.com/RiteshK83/DSA-Java/tree/master/1872-stone-game-viii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RiteshK83/DSA-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RiteshK83/DSA-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2460-apply-operations-to-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/2460-apply-operations-to-an-array) |
@@ -641,5 +644,18 @@
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/RiteshK83/DSA-Java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RiteshK83/DSA-Java/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/RiteshK83/DSA-Java/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/RiteshK83/DSA-Java/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/RiteshK83/DSA-Java/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
