@@ -23,6 +23,7 @@
 | [0389-find-the-difference](https://github.com/RiteshK83/DSA-Java/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RiteshK83/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/RiteshK83/DSA-Java/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/RiteshK83/DSA-Java/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
@@ -366,6 +367,7 @@
 | [0494-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/RiteshK83/DSA-Java/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/RiteshK83/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/RiteshK83/DSA-Java/tree/master/0645-set-mismatch) |
@@ -686,6 +688,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/RiteshK83/DSA-Java/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/RiteshK83/DSA-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiteshK83/DSA-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiteshK83/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
