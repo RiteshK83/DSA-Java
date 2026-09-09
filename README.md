@@ -331,6 +331,7 @@
 | [0015-3sum](https://github.com/RiteshK83/DSA-Java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RiteshK83/DSA-Java/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/RiteshK83/DSA-Java/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RiteshK83/DSA-Java/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/RiteshK83/DSA-Java/tree/master/0036-valid-sudoku) |
@@ -423,6 +424,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RiteshK83/DSA-Java/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0098-validate-binary-search-tree) |
