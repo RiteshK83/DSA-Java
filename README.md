@@ -378,6 +378,7 @@
 | [0503-next-greater-element-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/RiteshK83/DSA-Java/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/RiteshK83/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/RiteshK83/DSA-Java/tree/master/0645-set-mismatch) |
@@ -444,6 +445,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/RiteshK83/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RiteshK83/DSA-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/RiteshK83/DSA-Java/tree/master/0704-binary-search) |
