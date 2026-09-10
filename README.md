@@ -353,6 +353,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/RiteshK83/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/RiteshK83/DSA-Java/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RiteshK83/DSA-Java/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/RiteshK83/DSA-Java/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RiteshK83/DSA-Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -435,6 +436,7 @@
 | [0069-sqrtx](https://github.com/RiteshK83/DSA-Java/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RiteshK83/DSA-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/RiteshK83/DSA-Java/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/RiteshK83/DSA-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0300-longest-increasing-subsequence) |
