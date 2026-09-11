@@ -395,6 +395,7 @@
 | [0733-flood-fill](https://github.com/RiteshK83/DSA-Java/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/RiteshK83/DSA-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/RiteshK83/DSA-Java/tree/master/0778-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RiteshK83/DSA-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/RiteshK83/DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/RiteshK83/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
@@ -455,6 +456,7 @@
 | [0704-binary-search](https://github.com/RiteshK83/DSA-Java/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RiteshK83/DSA-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/RiteshK83/DSA-Java/tree/master/0778-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RiteshK83/DSA-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/RiteshK83/DSA-Java/tree/master/0875-koko-eating-bananas) |
 ## Design
 |  |
@@ -736,4 +738,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/RiteshK83/DSA-Java/tree/master/0278-first-bad-version) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RiteshK83/DSA-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
