@@ -445,6 +445,7 @@
 | [0162-find-peak-element](https://github.com/RiteshK83/DSA-Java/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/RiteshK83/DSA-Java/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiteshK83/DSA-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/RiteshK83/DSA-Java/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/RiteshK83/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -731,4 +732,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RiteshK83/DSA-Java/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/RiteshK83/DSA-Java/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
