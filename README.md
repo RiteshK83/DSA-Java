@@ -32,6 +32,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/RiteshK83/DSA-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiteshK83/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/RiteshK83/DSA-Java/tree/master/1748-sum-of-unique-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiteshK83/DSA-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RiteshK83/DSA-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
@@ -88,6 +89,7 @@
 | [0231-power-of-two](https://github.com/RiteshK83/DSA-Java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RiteshK83/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/RiteshK83/DSA-Java/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -418,6 +420,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RiteshK83/DSA-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2460-apply-operations-to-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/2460-apply-operations-to-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RiteshK83/DSA-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiteshK83/DSA-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -721,6 +724,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RiteshK83/DSA-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RiteshK83/DSA-Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Newton's Method
