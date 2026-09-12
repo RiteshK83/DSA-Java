@@ -280,6 +280,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RiteshK83/DSA-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/RiteshK83/DSA-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RiteshK83/DSA-Java/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/RiteshK83/DSA-Java/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/RiteshK83/DSA-Java/tree/master/1137-n-th-tribonacci-number) |
@@ -402,6 +403,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/RiteshK83/DSA-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/RiteshK83/DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/RiteshK83/DSA-Java/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiteshK83/DSA-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/RiteshK83/DSA-Java/tree/master/0994-rotting-oranges) |
@@ -438,6 +440,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/RiteshK83/DSA-Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
@@ -485,6 +488,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RiteshK83/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/RiteshK83/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -758,4 +762,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RiteshK83/DSA-Java/tree/master/0852-peak-index-in-a-mountain-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
