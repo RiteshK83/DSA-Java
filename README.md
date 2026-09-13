@@ -282,6 +282,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/RiteshK83/DSA-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
+| [0978-longest-turbulent-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0978-longest-turbulent-subarray) |
 | [1092-shortest-common-supersequence](https://github.com/RiteshK83/DSA-Java/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/RiteshK83/DSA-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/1143-longest-common-subsequence) |
@@ -408,6 +409,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiteshK83/DSA-Java/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0978-longest-turbulent-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/RiteshK83/DSA-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RiteshK83/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/RiteshK83/DSA-Java/tree/master/1046-last-stone-weight) |
@@ -663,6 +665,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/RiteshK83/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/RiteshK83/DSA-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/RiteshK83/DSA-Java/tree/master/0904-fruit-into-baskets) |
+| [0978-longest-turbulent-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiteshK83/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RiteshK83/DSA-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Memoization
