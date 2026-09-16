@@ -105,6 +105,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/RiteshK83/DSA-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiteshK83/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RiteshK83/DSA-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RiteshK83/DSA-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/RiteshK83/DSA-Java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RiteshK83/DSA-Java/tree/master/1927-sum-game) |
 | [3870-count-commas-in-range](https://github.com/RiteshK83/DSA-Java/tree/master/3870-count-commas-in-range) |
@@ -293,6 +294,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RiteshK83/DSA-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RiteshK83/DSA-Java/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RiteshK83/DSA-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/RiteshK83/DSA-Java/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RiteshK83/DSA-Java/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -684,6 +686,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RiteshK83/DSA-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -754,6 +757,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/RiteshK83/DSA-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiteshK83/DSA-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiteshK83/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RiteshK83/DSA-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/RiteshK83/DSA-Java/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
