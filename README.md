@@ -31,6 +31,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiteshK83/DSA-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/RiteshK83/DSA-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiteshK83/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1748-sum-of-unique-elements](https://github.com/RiteshK83/DSA-Java/tree/master/1748-sum-of-unique-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiteshK83/DSA-Java/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -293,6 +294,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RiteshK83/DSA-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RiteshK83/DSA-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1463-cherry-pickup-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RiteshK83/DSA-Java/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RiteshK83/DSA-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -428,6 +430,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RiteshK83/DSA-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1463-cherry-pickup-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/RiteshK83/DSA-Java/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiteshK83/DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/RiteshK83/DSA-Java/tree/master/1514-path-with-maximum-probability) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RiteshK83/DSA-Java/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -482,6 +485,7 @@
 | [0778-swim-in-rising-water](https://github.com/RiteshK83/DSA-Java/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/RiteshK83/DSA-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/RiteshK83/DSA-Java/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiteshK83/DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RiteshK83/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Design
@@ -676,6 +680,7 @@
 | [0904-fruit-into-baskets](https://github.com/RiteshK83/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiteshK83/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RiteshK83/DSA-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Memoization
 |  |
