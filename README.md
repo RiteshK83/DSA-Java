@@ -347,6 +347,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RiteshK83/DSA-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RiteshK83/DSA-Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RiteshK83/DSA-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/RiteshK83/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RiteshK83/DSA-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RiteshK83/DSA-Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
@@ -521,6 +522,7 @@
 | [0682-baseball-game](https://github.com/RiteshK83/DSA-Java/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RiteshK83/DSA-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/2460-apply-operations-to-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/RiteshK83/DSA-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
