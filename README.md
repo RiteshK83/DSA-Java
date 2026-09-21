@@ -278,6 +278,7 @@
 | [0337-house-robber-iii](https://github.com/RiteshK83/DSA-Java/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RiteshK83/DSA-Java/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0518-coin-change-ii) |
@@ -399,6 +400,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RiteshK83/DSA-Java/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/RiteshK83/DSA-Java/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0494-target-sum) |
@@ -563,6 +565,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/RiteshK83/DSA-Java/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/RiteshK83/DSA-Java/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/RiteshK83/DSA-Java/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
@@ -718,6 +721,7 @@
 | [0044-wildcard-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RiteshK83/DSA-Java/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RiteshK83/DSA-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RiteshK83/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
