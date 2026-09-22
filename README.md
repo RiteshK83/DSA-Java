@@ -113,6 +113,7 @@
 | [1872-stone-game-viii](https://github.com/RiteshK83/DSA-Java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RiteshK83/DSA-Java/tree/master/1927-sum-game) |
 | [3524-find-x-value-of-array-i](https://github.com/RiteshK83/DSA-Java/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/RiteshK83/DSA-Java/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/RiteshK83/DSA-Java/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/RiteshK83/DSA-Java/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
@@ -459,6 +460,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RiteshK83/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/RiteshK83/DSA-Java/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/RiteshK83/DSA-Java/tree/master/3525-find-x-value-of-array-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiteshK83/DSA-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -744,6 +746,7 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3525-find-x-value-of-array-ii](https://github.com/RiteshK83/DSA-Java/tree/master/3525-find-x-value-of-array-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
