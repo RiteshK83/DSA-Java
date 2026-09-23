@@ -33,6 +33,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/RiteshK83/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RiteshK83/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RiteshK83/DSA-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/RiteshK83/DSA-Java/tree/master/1748-sum-of-unique-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiteshK83/DSA-Java/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -449,6 +450,7 @@
 | [1514-path-with-maximum-probability](https://github.com/RiteshK83/DSA-Java/tree/master/1514-path-with-maximum-probability) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RiteshK83/DSA-Java/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/RiteshK83/DSA-Java/tree/master/1584-min-cost-to-connect-all-points) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RiteshK83/DSA-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/RiteshK83/DSA-Java/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1765-map-of-highest-peak](https://github.com/RiteshK83/DSA-Java/tree/master/1765-map-of-highest-peak) |
@@ -503,6 +505,7 @@
 | [0875-koko-eating-bananas](https://github.com/RiteshK83/DSA-Java/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiteshK83/DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RiteshK83/DSA-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RiteshK83/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Design
 |  |
@@ -703,6 +706,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiteshK83/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RiteshK83/DSA-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RiteshK83/DSA-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Memoization
 |  |
@@ -789,6 +793,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiteshK83/DSA-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiteshK83/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RiteshK83/DSA-Java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RiteshK83/DSA-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/RiteshK83/DSA-Java/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
