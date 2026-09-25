@@ -29,6 +29,7 @@
 | [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/RiteshK83/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RiteshK83/DSA-Java/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/RiteshK83/DSA-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiteshK83/DSA-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -84,6 +85,7 @@
 | [0503-next-greater-element-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/RiteshK83/DSA-Java/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/RiteshK83/DSA-Java/tree/master/0907-sum-of-subarray-minimums) |
+| [1096-brace-expansion-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1096-brace-expansion-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | [0994-rotting-oranges](https://github.com/RiteshK83/DSA-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/RiteshK83/DSA-Java/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RiteshK83/DSA-Java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RiteshK83/DSA-Java/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1765-map-of-highest-peak](https://github.com/RiteshK83/DSA-Java/tree/master/1765-map-of-highest-peak) |
@@ -320,6 +323,7 @@
 | [0113-path-sum-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1096-brace-expansion-ii) |
 ## String
 |  |
 | ------- |
@@ -347,6 +351,7 @@
 | [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/RiteshK83/DSA-Java/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RiteshK83/DSA-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RiteshK83/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -584,6 +589,7 @@
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
+| [1096-brace-expansion-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/RiteshK83/DSA-Java/tree/master/1288-remove-covered-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RiteshK83/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RiteshK83/DSA-Java/tree/master/1547-minimum-cost-to-cut-a-stick) |
