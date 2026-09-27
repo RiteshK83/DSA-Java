@@ -263,6 +263,7 @@
 | [0010-regular-expression-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RiteshK83/DSA-Java/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RiteshK83/DSA-Java/tree/master/0070-climbing-stairs) |
@@ -380,6 +381,7 @@
 | [0035-search-insert-position](https://github.com/RiteshK83/DSA-Java/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/RiteshK83/DSA-Java/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RiteshK83/DSA-Java/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/RiteshK83/DSA-Java/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0074-search-a-2d-matrix) |
@@ -750,6 +752,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/RiteshK83/DSA-Java/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/RiteshK83/DSA-Java/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RiteshK83/DSA-Java/tree/master/0435-non-overlapping-intervals) |
