@@ -91,6 +91,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/RiteshK83/DSA-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [1096-brace-expansion-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -364,6 +365,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RiteshK83/DSA-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RiteshK83/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RiteshK83/DSA-Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/RiteshK83/DSA-Java/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RiteshK83/DSA-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -864,4 +866,5 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
