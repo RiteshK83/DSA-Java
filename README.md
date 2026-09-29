@@ -871,4 +871,8 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RiteshK83/DSA-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RiteshK83/DSA-Java/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
