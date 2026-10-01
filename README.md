@@ -79,6 +79,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/RiteshK83/DSA-Java/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RiteshK83/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
@@ -339,6 +340,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiteshK83/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/RiteshK83/DSA-Java/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/RiteshK83/DSA-Java/tree/master/0072-edit-distance) |
@@ -870,6 +872,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RiteshK83/DSA-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
