@@ -462,6 +462,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/RiteshK83/DSA-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/RiteshK83/DSA-Java/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/RiteshK83/DSA-Java/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/RiteshK83/DSA-Java/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/RiteshK83/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/RiteshK83/DSA-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
