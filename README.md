@@ -266,6 +266,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RiteshK83/DSA-Java/tree/master/0053-maximum-subarray) |
@@ -330,6 +331,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/RiteshK83/DSA-Java/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/RiteshK83/DSA-Java/tree/master/0257-binary-tree-paths) |
@@ -341,6 +343,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiteshK83/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/RiteshK83/DSA-Java/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/RiteshK83/DSA-Java/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/RiteshK83/DSA-Java/tree/master/0072-edit-distance) |
@@ -877,6 +880,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RiteshK83/DSA-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
