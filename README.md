@@ -89,6 +89,7 @@
 | [0225-implement-stack-using-queues](https://github.com/RiteshK83/DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RiteshK83/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/RiteshK83/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/RiteshK83/DSA-Java/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/RiteshK83/DSA-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [1096-brace-expansion-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1096-brace-expansion-ii) |
@@ -305,6 +306,7 @@
 | [0542-01-matrix](https://github.com/RiteshK83/DSA-Java/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/RiteshK83/DSA-Java/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/RiteshK83/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RiteshK83/DSA-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RiteshK83/DSA-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/RiteshK83/DSA-Java/tree/master/0746-min-cost-climbing-stairs) |
@@ -363,6 +365,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/RiteshK83/DSA-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/RiteshK83/DSA-Java/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/RiteshK83/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/RiteshK83/DSA-Java/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RiteshK83/DSA-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -786,6 +789,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RiteshK83/DSA-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RiteshK83/DSA-Java/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/RiteshK83/DSA-Java/tree/master/0502-ipo) |
+| [0678-valid-parenthesis-string](https://github.com/RiteshK83/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RiteshK83/DSA-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/RiteshK83/DSA-Java/tree/master/0763-partition-labels) |
@@ -886,6 +890,7 @@
 | [0020-valid-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/RiteshK83/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RiteshK83/DSA-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
