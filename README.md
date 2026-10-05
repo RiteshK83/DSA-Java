@@ -91,6 +91,7 @@
 | [0503-next-greater-element-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RiteshK83/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/RiteshK83/DSA-Java/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/RiteshK83/DSA-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [1096-brace-expansion-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RiteshK83/DSA-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -371,6 +372,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RiteshK83/DSA-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/RiteshK83/DSA-Java/tree/master/0763-partition-labels) |
+| [0856-score-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/RiteshK83/DSA-Java/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1096-brace-expansion-ii) |
@@ -891,6 +893,7 @@
 | [0022-generate-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RiteshK83/DSA-Java/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RiteshK83/DSA-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
