@@ -93,6 +93,7 @@
 | [0682-baseball-game](https://github.com/RiteshK83/DSA-Java/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/RiteshK83/DSA-Java/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiteshK83/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RiteshK83/DSA-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -373,6 +374,7 @@
 | [0721-accounts-merge](https://github.com/RiteshK83/DSA-Java/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/RiteshK83/DSA-Java/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiteshK83/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/RiteshK83/DSA-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/RiteshK83/DSA-Java/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/RiteshK83/DSA-Java/tree/master/1096-brace-expansion-ii) |
@@ -796,6 +798,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RiteshK83/DSA-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/RiteshK83/DSA-Java/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/RiteshK83/DSA-Java/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiteshK83/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RiteshK83/DSA-Java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/RiteshK83/DSA-Java/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RiteshK83/DSA-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -894,6 +897,7 @@
 | [0032-longest-valid-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RiteshK83/DSA-Java/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RiteshK83/DSA-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RiteshK83/DSA-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiteshK83/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
