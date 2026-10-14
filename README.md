@@ -109,6 +109,7 @@
 | [0231-power-of-two](https://github.com/RiteshK83/DSA-Java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RiteshK83/DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/RiteshK83/DSA-Java/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/RiteshK83/DSA-Java/tree/master/0779-k-th-symbol-in-grammar) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -119,6 +120,7 @@
 | [0070-climbing-stairs](https://github.com/RiteshK83/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/RiteshK83/DSA-Java/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RiteshK83/DSA-Java/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/RiteshK83/DSA-Java/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/RiteshK83/DSA-Java/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/RiteshK83/DSA-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/RiteshK83/DSA-Java/tree/master/1137-n-th-tribonacci-number) |
@@ -748,6 +750,7 @@
 | [0342-power-of-four](https://github.com/RiteshK83/DSA-Java/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RiteshK83/DSA-Java/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/RiteshK83/DSA-Java/tree/master/0645-set-mismatch) |
+| [0779-k-th-symbol-in-grammar](https://github.com/RiteshK83/DSA-Java/tree/master/0779-k-th-symbol-in-grammar) |
 ## Sliding Window
 |  |
 | ------- |
