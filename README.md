@@ -38,6 +38,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RiteshK83/DSA-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/RiteshK83/DSA-Java/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RiteshK83/DSA-Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RiteshK83/DSA-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiteshK83/DSA-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RiteshK83/DSA-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -509,6 +510,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RiteshK83/DSA-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RiteshK83/DSA-Java/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2460-apply-operations-to-an-array](https://github.com/RiteshK83/DSA-Java/tree/master/2460-apply-operations-to-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RiteshK83/DSA-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RiteshK83/DSA-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RiteshK83/DSA-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RiteshK83/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
@@ -816,10 +818,12 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RiteshK83/DSA-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RiteshK83/DSA-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RiteshK83/DSA-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/RiteshK83/DSA-Java/tree/master/3525-find-x-value-of-array-ii) |
 ## Knapsack Problem
 |  |
