@@ -520,6 +520,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/RiteshK83/DSA-Java/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RiteshK83/DSA-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RiteshK83/DSA-Java/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/RiteshK83/DSA-Java/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
